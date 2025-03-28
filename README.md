@@ -1,2 +1,2 @@
 # Mines-Stakes.com
-a Fan-Made game about mines from Stake.com with Virtual money of course.
+### This is just a fan-made game, don't take this seryously because you won't gain any advantages or real money and neither a way to beat stakes.com mines game
